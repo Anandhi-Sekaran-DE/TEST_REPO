@@ -1,0 +1,10 @@
+Name;City;Amount;Currency
+André;München;1234,56;¤
+Chloë;Zürich;789,01;CHF
+René;Lyon;321,00;¤
+Björn;Oslo;456,78;NOK
+José;Madrid;78,22;DKK
+François;Paris;220,11;NOK
+Søren;Copenhagen;333,33;¤
+Anaïs;Marseille;555,55;HUF
+Márton;Budapest;666,66;NOK
