@@ -1,0 +1,59 @@
+{
+  "products": [
+    {
+      "id": "PROD001",
+      "name": "Laptop Pro X",
+      "category": "Electronics",
+      "price": 1200.00,
+      "features": ["16GB RAM", "512GB SSD", "13-inch Retina Display"],
+      "availability": {
+        "stock": 50,
+        "stores": ["Store A", "Store B", "Online"]
+      }
+    },
+    {
+      "id": "PROD002",
+      "name": "Wireless Headphones Z",
+      "category": "Audio",
+      "price": 150.00,
+      "features": ["Noise Cancelling", "Bluetooth 5.0", "20-hour Battery Life"],
+      "availability": {
+        "stock": 120,
+        "stores": ["Store A", "Online"]
+      }
+    },
+    {
+      "id": "PROD003",
+      "name": "Ergonomic Office Chair",
+      "category": "Furniture",
+      "price": 300.00,
+      "features": ["Adjustable Lumbar Support", "Mesh Back", "Swivel Base"],
+      "availability": {
+        "stock": 30,
+        "stores": ["Store C", "Online"]
+      }
+    }
+  ],
+  "customerRatings": [4.5, 3.9, 5.0, 4.2, 4.8],
+  "recentOrders": [
+    {
+      "orderId": "ORD9876",
+      "customerId": "CUST001",
+      "items": ["PROD001", "PROD002"],
+      "totalAmount": 1350.00,
+      "orderDate": "2024-06-25"
+    },
+    {
+      "orderId": "ORD9877",
+      "customerId": "CUST002",
+      "items": ["PROD003"],
+      "totalAmount": 300.00,
+      "orderDate": "2024-06-26"
+    }
+  ],
+  "tags": ["electronics", "home-office", "audio", "sale", "new-arrivals"]
+}
+
+
+
+
